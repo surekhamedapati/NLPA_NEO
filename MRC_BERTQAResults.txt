@@ -1,0 +1,500 @@
+Query
+ To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Query has 176 tokens.
+
+Answer: "saint bernadette soubirous"
+Query
+ What is in front of the Notre Dame Main Building?
+Query has 172 tokens.
+
+Answer: "a copper statue of christ"
+Query
+ The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Query has 176 tokens.
+
+Answer: "the main building"
+Query
+ What is the Grotto at Notre Dame?
+Query has 170 tokens.
+
+Answer: "a replica of the grotto at lourdes , france"
+Query
+ What sits on top of the Main Building at Notre Dame?
+Query has 173 tokens.
+
+Answer: "a golden statue of the virgin mary"
+Query
+ When did the Scholastic Magazine of Notre dame begin publishing?
+Query has 270 tokens.
+
+Answer: "september 1876"
+Query
+ How often is Notre Dame's the Juggler published?
+Query has 271 tokens.
+
+Answer: "twice"
+Query
+ What is the daily student paper at Notre Dame called?
+Query has 270 tokens.
+
+Answer: "the observer"
+Query
+ How many student news papers are found at Notre Dame?
+Query has 270 tokens.
+
+Answer: "three"
+Query
+ In what year did the student paper Common Sense begin publication at Notre Dame?
+Query has 274 tokens.
+
+Answer: "1987"
+Query
+ Where is the headquarters of the Congregation of the Holy Cross?
+Query has 160 tokens.
+
+Answer: "rome"
+Query
+ What is the primary seminary of the Congregation of the Holy Cross?
+Query has 161 tokens.
+
+Answer: "moreau seminary"
+Query
+ What is the oldest structure at Notre Dame?
+Query has 157 tokens.
+
+Answer: "old college"
+Query
+ What individuals live at Fatima House at Notre Dame?
+Query has 158 tokens.
+
+Answer: "retired priests and brothers"
+Query
+ Which prize did Frederick Buechner create?
+Query has 157 tokens.
+
+Answer: "buechner prize for preaching"
+Query
+ How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Query has 155 tokens.
+
+Answer: "eight"
+Query
+ In what year was the College of Engineering at Notre Dame formed?
+Query has 152 tokens.
+
+Answer: "1920"
+Query
+ Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Query has 158 tokens.
+
+Answer: "college of science"
+Query
+ How many departments are within the Stinson-Remick Hall of Engineering?
+Query has 156 tokens.
+
+Answer: "five"
+Query
+ The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+Query has 157 tokens.
+
+Answer: "the 1870s"
+Query
+ What entity provides help with the management of time for new students at Notre Dame?
+Query has 148 tokens.
+
+Answer: "learning resource center"
+Query
+ How many colleges for undergraduates are at Notre Dame?
+Query has 143 tokens.
+
+Answer: "five"
+Query
+ What was created at Notre Dame in 1962 to assist first year students?
+Query has 146 tokens.
+
+Answer: "the first year of studies program"
+Query
+ Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+Query has 148 tokens.
+
+Answer: "u . s . news & world report"
+Query
+ The granting of Doctorate degrees first occurred in what year at Notre Dame?
+Query has 276 tokens.
+
+Answer: "1924"
+Query
+ What type of degree is an M.Div.?
+Query has 274 tokens.
+
+Answer: "master of divinity"
+Query
+ Which program at Notre Dame offers a Master of Education degree?
+Query has 274 tokens.
+
+Answer: "alliance for catholic education"
+Query
+ In what year was a Master of Arts course first offered at Notre Dame?
+Query has 277 tokens.
+
+Answer: "1854"
+Query
+ Which department at Notre Dame is the only one to not offer a PhD program?
+Query has 278 tokens.
+
+Answer: "department of pre - professional studies"
+Query
+ What institute at Notre Dame studies  the reasons for violent conflict?
+Query has 139 tokens.
+
+Answer: "joan b . kroc institute for international peace studies"
+Query
+ What is the title of Notre Dame's Theodore Hesburgh?
+Query has 141 tokens.
+
+Answer: "president emeritus"
+Query
+ In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+Query has 145 tokens.
+
+Answer: "1986"
+Query
+ To whom was John B. Kroc married?
+Query has 138 tokens.
+
+Answer: "ray kroc"
+Query
+ What company did Ray Kroc own?
+Query has 136 tokens.
+
+Answer: "mcdonald ' s"
+Query
+ How many stories tall is the main library at Notre Dame?
+Query has 119 tokens.
+
+Answer: "14"
+Query
+ What is the name of the main library at Notre Dame?
+Query has 119 tokens.
+
+Answer: "theodore m . hesburgh library"
+Query
+ In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+Query has 124 tokens.
+
+Answer: "1963"
+Query
+ Which artist created the mural on the Theodore M. Hesburgh Library?
+Query has 122 tokens.
+
+Answer: "millard sheets"
+Query
+ What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+Query has 125 tokens.
+
+Answer: "touchdown jesus"
+Query
+ How many incoming students did Notre Dame admit in fall 2015?
+Query has 217 tokens.
+
+Answer: "3 , 577"
+Query
+ What percentage of students were admitted to Notre Dame in fall 2015?
+Query has 218 tokens.
+
+Answer: "19 . 7 %"
+Query
+ Where does Notre Dame rank in terms of academic profile among research universities in the US?
+Query has 222 tokens.
+
+Answer: "top 10 to 15"
+Query
+ What percentage of students at Notre Dame participated in the Early Action program?
+Query has 219 tokens.
+
+Answer: "39 . 1 %"
+Query
+ How many miles does the average student at Notre Dame travel to study there?
+Query has 220 tokens.
+
+Answer: "750"
+Query
+ Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+Query has 272 tokens.
+
+Answer: "18th overall"
+Query
+ Forbes.com placed Notre Dame at what position compared to other US research universities?
+Query has 267 tokens.
+
+Answer: "8th"
+Query
+ The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?
+Query has 269 tokens.
+
+Answer: "1st overall"
+Query
+ In 2014 what entity named Notre Dame 10th best of all American universities?
+Query has 265 tokens.
+
+Answer: "usa today"
+Query
+ What percentage of Notre Dame students decide to study abroad?
+Query has 262 tokens.
+
+Answer: "57 . 6 %"
+Query
+ What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+Query has 219 tokens.
+
+Answer: "father joseph carrier"
+Query
+ What was the lifespan of John Augustine Zahm?
+Query has 211 tokens.
+
+Answer: "1851 – 1921"
+Query
+ What program did John Augustine Zahm come to co-direct at Nore Dame?
+Query has 218 tokens.
+
+Answer: "science department"
+Query
+ What book did John Zahm write in 1896?
+Query has 211 tokens.
+
+Answer: "evolution and dogma"
+Query
+ What professorship did Father Josh Carrier hold at Notre Dame?
+Query has 212 tokens.
+
+Answer: "chemistry and physics"
+Query
+ In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+Query has 123 tokens.
+
+Answer: "1882"
+Query
+ Which professor sent the first wireless message in the USA?
+Query has 117 tokens.
+
+Answer: "professor jerome green"
+Query
+ In what year did Jerome Green send his first wireless message?
+Query has 118 tokens.
+
+Answer: "1899"
+Query
+ Which individual worked on projects at Notre Dame that eventually created neoprene?
+Query has 121 tokens.
+
+Answer: "father julius nieuwland"
+Query
+ What did the brother of John Zahm construct at Notre Dame?
+Query has 119 tokens.
+
+Answer: "an early wind tunnel"
+Query
+ Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+Query has 270 tokens.
+
+Answer: "the lobund institute"
+Query
+ Around what time did Lobund of Notre Dame become independent?
+Query has 262 tokens.
+
+Answer: "1940s"
+Query
+ In what year did Lobund at Notre Dame become an Institute?
+Query has 263 tokens.
+
+Answer: "1950"
+Query
+ The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?
+Query has 268 tokens.
+
+Answer: "1958"
+Query
+ When did study of a germ-free-life begin at Notre Dame?
+Query has 266 tokens.
+
+Answer: "1928"
+Query
+ Gurian created what in 1939 at Notre Dame?
+Query has 135 tokens.
+
+Answer: "the review of politics"
+Query
+ What was the Review of Politics inspired by?
+Query has 134 tokens.
+
+Answer: "german catholic journals"
+Query
+ Over how many years did Gurian edit the Review of Politics at Notre Dame?
+Query has 141 tokens.
+
+Answer: "44"
+Query
+ Thomas Stritch was an editor of which publican from Notre Dame?
+Query has 140 tokens.
+
+Answer: "the review of politics"
+Query
+ Who was the president of Notre Dame in 2012?
+Query has 180 tokens.
+
+Answer: "john jenkins"
+Query
+ The Kellogg Institute for International Studies is part of which university?
+Query has 182 tokens.
+
+Answer: "notre dame"
+Query
+ What does the Kroc Institute at Notre Dame focus on?
+Query has 183 tokens.
+
+Answer: "international peace studies"
+Query
+ In what year did Notre Dame begin to host the Global Adaptation Index?
+Query has 184 tokens.
+
+Answer: "2013"
+Query
+ What threat does the Global Adaptation Index study?
+Query has 179 tokens.
+
+Answer: "climate change"
+Query
+ How many undergrads were attending Notre Dame in 2014?
+Query has 344 tokens.
+
+Answer: "8 , 448"
+Query
+ What percentage of students at Notre Dame are the children of former Notre Dame students?
+Query has 348 tokens.
+
+Answer: "21 – 24 %"
+Query
+ How many teams participate in the Notre Dame Bookstore Basketball tournament?
+Query has 344 tokens.
+
+Answer: "over 700"
+Query
+ For what cause is money raised at the Bengal Bouts tournament at Notre Dame?
+Query has 347 tokens.
+
+Answer: "holy cross missions in bangladesh"
+Query
+ How many students in total were at Notre Dame in 2014?
+Query has 344 tokens.
+
+Answer: "12 , 179"
+Query
+ What percentage of undergrads live on the Notre Dame campus?
+Query has 259 tokens.
+
+Answer: "80 %"
+Query
+ How many student housing areas are reserved for Notre Dame's graduate students?
+Query has 261 tokens.
+
+Answer: "four"
+Query
+ How many dorms for males are on the Notre Dame campus?
+Query has 259 tokens.
+
+Answer: "15"
+Query
+ What amount of the graduate student body at Notre Dame live on the campus?
+Query has 261 tokens.
+
+Answer: "20 %"
+Query
+ There are how many dorms for females at Notre Dame?
+Query has 258 tokens.
+
+Answer: "14"
+Query
+ What is Congregation of Holy Cross in Latin?
+Query has 277 tokens.
+
+Answer: "congregatio a sancta cruce"
+Query
+ What percentage of Notre Dame students feel they are Christian?
+Query has 279 tokens.
+
+Answer: "93 %"
+Query
+ How often is Catholic mass held at Notre Dame in a week?
+Query has 281 tokens.
+
+Answer: "over 100 times"
+Query
+ How many chapels are on the Notre Dame campus?
+Query has 278 tokens.
+
+Answer: "fifty - seven"
+Query
+ What amount of the student body of Notre Dame identifies as Catholic?
+Query has 281 tokens.
+
+Answer: "over 80 %"
+Query
+ What was the music hall at Notre Dame called?
+Query has 206 tokens.
+
+Answer: "washington hall"
+Query
+ In what year was the Main Building at Notre Dame razed in a fire?
+Query has 212 tokens.
+
+Answer: "1879"
+Query
+ Who was the president of Notre Dame in 1879?
+Query has 206 tokens.
+
+Answer: "rev . william corby"
+Query
+ On what date was the rebuilding of The Main Building begun at Notre Dame after the fire that claimed the previous?
+Query has 218 tokens.
+
+Answer: "17th of may"
+Query
+ What did the Science Hall at Notre Dame come to be known as?
+Query has 210 tokens.
+
+Answer: "lafortune student center"
+Query
+ What type of education was pushed at Notre Dame before its embracing of national standards?
+Query has 175 tokens.
+
+Answer: "scholastic and classical"
+Query
+ Which college did Notre Dame add in 1921?
+Query has 168 tokens.
+
+Answer: "college of commerce"
+Query
+ In 1919 a new president of Notre Dame was named, who was it?
+Query has 174 tokens.
+
+Answer: "father james burns"
+Query
+ Over how many years did the change to national standards undertaken at Notre Dame in the early 20th century take place?
+Query has 181 tokens.
+
+Answer: "three"
+Query
+ Those who attended a Jesuit college may have been forbidden from joining which Law School due to the curricula at the Jesuit institution?
+Query has 185 tokens.
+
+Answer: "harvard law school"
+Query
+ The Notre Dame football team got a new head coach in 1918, who was it?
+Query has 191 tokens.
+
+Answer: "knute rockne"
+Query
+ What was the amount of wins Knute Rockne attained at Notre Dame while head coach?
+Query has 192 tokens.
+
+Answer: "105"
