@@ -1,0 +1,108 @@
+Naive Bayes and Count_features(Shortsnippets):
+Predicted:
+['php' 'command-line' 'authentication' ... 'sharepoint' 'android'
+ 'version-control']
+Accuracy: 0.16502070723160242
+Precision: 0.09981226088065015
+Recall: 0.16502070723160242
+F-measure: 0.11156617208792882
+
+
+Naive Bayes and Count_features(Longsnippets):
+Predicted:
+['php' 'ruby' 'authentication' ... 'sharepoint' 'api' 'version-control']
+Accuracy: 0.1653392800254858
+Precision: 0.0950698326508566
+Recall: 0.1653392800254858
+F-measure: 0.10965767365358334
+===========================================
+
+Naive Bayes and TFIDF features(Shortsnippets):
+Predicted:
+['web' 's' 'java' ... 'web' 's' 's']
+Accuracy: 0.0821917808219178
+Precision: 0.058150685667981636
+Recall: 0.0821917808219178
+F-measure: 0.04109960313447562
+
+Naive Bayes and TFIDF features(Longsnippets):
+Predicted:
+Predicted:
+['deployment' 'scripting' 'hadoop' ... 'java' 'java' 'https']
+Accuracy: 0.09174896463841987
+Precision: 0.054964789518922086
+Recall: 0.09174896463841987
+F-measure: 0.04745631209248072
+=======================================================
+
+SVM and Count features(ShortSnippets):
+
+Predicted:
+['s' 'css' 'interface' ... 'interface' 'api' 'git-notes']
+Accuracy: 0.07613889773813316
+Precision: 0.05796473065112335
+Recall: 0.07613889773813316
+F-measure: 0.05866193449457907
+
+SVM and Count features(LongSnippets):
+Predicted:
+['php' 'interface' 'api' ... 'java' 'api' 'php']
+Accuracy: 0.08920038228735266
+Precision: 0.06805779208006646
+Recall: 0.08920038228735266
+F-measure: 0.06861378574950332
+
+
+SVM and TfIDF features(ShortSnippets):
+Predicted:
+['s' 'emacs' '.net' ... 'web' 'android' 's']
+Accuracy: 0.10608474036317299
+Precision: 0.0641424238800889
+Recall: 0.10608474036317299
+F-measure: 0.05967868226756483
+
+SVM and TfIDF features(LongSnippets):
+Predicted:
+['deployment' 'html' 'jsf' ... 'pdf' 'facebook' 'graphics']
+Accuracy: 0.014335775724753107
+Precision: 0.016122562163537208
+Recall: 0.014335775724753107
+F-measure: 0.01160522717158147
+
+
+=============================================================
+MLP and Count features(ShortSnippets):
+Predicted:
+['web' 'javascript' 'java' ... 'javascript' 'android' 'java']
+Accuracy: 0.06817457789104811
+Precision: 0.01507143448139651
+Recall: 0.06817457789104811
+F-measure: 0.02338159675963199
+
+MLP and Count features(LongSnippets):
+Predicted:
+[u'php' u's' u'api' ... u's' u'android' u'database']
+Accuracy: 0.03313157056387384
+Precision: 0.006030462448253578
+Recall: 0.03313157056387384
+F-measure: 0.008561079025954245
+
+MLP and TfIDF features(ShortSnippets):
+Predicted:
+['s' 'emacs' 'open-source' ... 'web' 'api' 'database']
+Accuracy: 0.05320165657852819
+Precision: 0.0293336186863825
+Recall: 0.05320165657852819
+F-measure: 0.03520763190979317
+
+MLP and TfIDF features(LongSnippets):
+
+Predicted:
+['deployment' 'html' 'jsf' ... 'pdf' 'facebook' 'graphics']
+Accuracy: 0.014335775724753107
+Precision: 0.016122562163537208
+Recall: 0.014335775724753107
+F-measure: 0.01160522717158147
+
+
+
