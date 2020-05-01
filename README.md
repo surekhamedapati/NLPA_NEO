@@ -1,5 +1,5 @@
 # Question Answering Model
-#REFERENCES
+REFERENCES
 1)	https://pytorch.org/tutorials/intermediate/dynamic_quantization_bert_tutorial.html 
 2)	https://jalammar.github.io/illustrated-transformer/ 
 3)	https://blog.floydhub.com/attention-mechanism/ 
