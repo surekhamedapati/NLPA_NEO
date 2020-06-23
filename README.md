@@ -15,7 +15,4 @@ REFERENCES
 13)	https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
 14)	https://github.com/google-research/bert
 
-Pretrained weights:
-https://drive.google.com/drive/folders/11thfkdBw3aCXk-Iao_aT7Awzsnl0rDf8?usp=sharing
-
 
